@@ -1,0 +1,27 @@
+/* styling for the carousel body */
+div.carousel-item {
+    width: 700px;
+    height: 450px;
+    border-radius: 6px 6px 6px 6px;
+}
+
+/* styling for the boundingBox and ContentBox(in this case) */
+#myCarousel {
+	width: 50%;
+    margin: 0 auto;
+}
+
+#image1
+{
+    background-image: url("../img/1.jpg");
+}
+
+#image2
+{
+    background-image: url("../img/2.jpg");
+}
+
+#image3
+{
+    background-image: url("../img/3.jpg");
+}
